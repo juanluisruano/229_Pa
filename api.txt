@@ -1,0 +1,34 @@
+
+---JUAN RUANO , 2013 ver.0 2018 ver.1
+
+API key: 	
+
+AIzaSyBRQUn_obgbjWQJ2fhvIX4lVnIfraQlR4M
+
+Table ID:
+
+ 	
+1n-tx42YlxEG39aVlsC9c8cvSXe0mwPny7ORLoLx3
+
+
+url:
+
+https://www.google.com/fusiontables/DataSource?docid=1ntx-42YlxEG39aVlsC9c8cvSXe0mwPny7ORLoLx3
+
+
+table_URL
+
+
+https://www.google.com/fusiontables/embedviz?viz=GVIZ&t=TABLE&q=select+col0%2C+col1%2C+col2%2C+col3%2C+col4+from+1n-tx42YlxEG39aVlsC9c8cvSXe0mwPny7ORLoLx3&containerId=googft-gviz-canvas
+
+
+
+desde sistema Android logueando desde ajustes > cuentas > con la misma cuenta se crea las tablas.
+
+compartir pestaña "share" como publico. 
+
+
+   --- crear cuenta gmail especial para el programa y añadirla al movil,loguearte con esa cuenta---
+    ---en fusion tables crear la tabla adecuada..con la cuenta gmail creada-
+   -- hacer la tabla  pública--
+
